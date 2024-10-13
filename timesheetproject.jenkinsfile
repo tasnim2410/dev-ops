@@ -26,7 +26,7 @@ pipeline {
 
 
 
-        url: ' https://github.com/tasnim2410/dev-ops'
+        url: ' https://github.com/hwafa/timesheetproject'
 
 
 
