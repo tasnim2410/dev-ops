@@ -8,7 +8,7 @@ pipeline {
         stage('GIT') {
             steps {
                 git branch: 'master',
-                url: 'https://github.com/tasnim2410/dev-ops.git'
+                url: 'https://github.com/hwafa/timesheetproject.git'
             }
         }
         stage ('Compile Stage') {
